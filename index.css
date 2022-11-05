@@ -1,0 +1,189 @@
+.containerA{
+    border: 8px solid green;
+}
+.container{
+    
+    display: flex;
+    background-color: white;
+    color:brown;
+    align-content:center;
+    box-sizing: border-box;
+    border: 8px solid red;
+    align-content: center;
+    width: 300px;
+    height: 154px;
+    text-shadow: 2px 2px 2px purple;
+    font-weight: bold;
+    font-style:italic;
+    font-size:small ;
+    border-radius: 20px;
+    justify-content: center;
+    margin-left: 448px;
+    box-shadow: 8px 7px purple;
+}
+.container2
+{
+    background-color: white;
+    display: flex;
+    color: black;
+    width: 266px;
+    height: 250px;
+    border: 8px solid red;
+    border-radius: 20px;
+    box-sizing: border-box;
+    padding-left: 10px;
+    font-weight: bolder;
+    text-align: center;
+    font-size: small;
+    display: block;
+    text-shadow: 2px 2px 2px purple;
+    padding: 0px;
+    box-shadow: 8px 7px purple;
+}
+
+.container3{
+    background-color: white;
+    height: 253px;
+    width: 302px;
+    border: 8px solid red;
+    border-radius: 17px;
+    margin-left: 854px;
+    margin-top: -250px;
+    align-content: center;
+    justify-content: center;
+    box-sizing: border-box;
+    padding: 18px;
+    padding-left: 41px;
+    box-shadow: 8px 7px purple;
+}
+
+.container4{
+    border: 9px solid red;
+    height: 273px;
+    width: 292px;
+    color: black;
+    background-color: white;
+    background-color: white;
+    border-radius: 17px;
+    text-align: center;
+    padding-top: -12px;
+    box-sizing: border-box;
+    margin-top: 80px;
+    margin-left: 5px;
+    text-align: left;
+    font-size: small;
+    font-style: normal;
+    text-shadow: 2px 1px purple;
+    box-shadow: 8px 7px purple;
+    margin-bottom: 10px;
+}
+/*.container5{
+    margin-top: 300px;
+    display: flex;
+    color: black;
+    width: 266px;
+    height: 250px;
+    border: 8px solid red;
+    border-radius: 20px;
+    box-sizing: border-box;
+    padding-left: 10px;
+    font-weight: bolder;
+    font-size: small;
+    display: block;
+    text-shadow: 2px 2px 2px purple;
+    padding: 0px;
+}*/
+.container5A{
+    background-color: white;
+    height: 253px;
+    width: 302px;
+    border: 8px solid red;
+    border-radius: 17px;
+    margin-left: 854px;
+    margin-top: -250px;
+    align-content: center;
+    justify-content: center;
+    box-sizing: border-box;
+    padding: 18px;
+    padding-left: 41px;
+    font-weight: bold;
+    font-style: italic;
+    text-shadow: 1px 1px 3px purple ;
+    text-align: center;
+    box-shadow: 8px 7px purple;
+    margin-bottom: 30px;
+   
+}
+.btn{
+    background-color: brown;
+    border-radius: 40px;
+    box-shadow: 2px 2px 3px black;
+    cursor:pointer;
+}
+.btn:hover{
+    background-color: white;
+    color: red;
+}
+.container6{
+    height: 665px;
+    width: 749px;
+    border: 8px solid purple;
+    background-color: green;
+    font-size: small;
+    font-weight: lighter;
+    margin-left: 260px;
+    margin-top: 80px;
+    text-align: center;
+    position: absolute
+}
+.sc1{
+    text-align: center;
+    height: 258px;
+    width: 360px;
+    margin-left: 5px;
+    margin-top: 35px;
+    border: 2px solid gray;
+    background-color: rgb(216, 207, 102);
+    font-style: italic;
+}
+.sc2{
+    text-align: center;
+    height: 258px;
+    width: 360px;
+    margin-left: 382px;
+    margin-top: -261px;
+    border: 2px solid gray;
+    background-color: rgb(216, 207, 102);
+    font-style: italic;
+    font-weight: bold;
+}
+.sc3{
+    text-align: center;
+    height: 300px;
+    width: 760px;
+    margin-top: 6px;
+    background-color: rgb(216, 207, 102);
+    font-style: italic;
+    border-width: 2px;
+    border-style: solid;
+    border-color: grey;
+    font-weight:bold;
+    border-image: initial
+}
+.container7{
+    position: fixed;
+    bottom: 30px;
+    background-color: greenyellow;
+    color: brown;
+    border: 8px solid red;
+    height: 57px;
+    width: 444px;
+    display: inline-flex;
+    border-radius: 20px;
+    align-items: center;
+    padding-left: 20px;
+    font-style: italic;
+    font-weight: bold;
+    font-size: 22px;
+    margin-left: 40%;
+}
